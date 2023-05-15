@@ -16,7 +16,7 @@ Also, I transform some character variables into ordinal variables as shown below
 <img width="1132" alt="image" src="https://user-images.githubusercontent.com/19903898/235323893-4917a5ec-9912-4f88-a413-f4fefe57dc22.png">
 
 ## IV. Result
-Finally, I run three different potential models to see which one performs the best. The first model uses zipcodes as dummy variables as well as other predictor variables, the second model uses counties instead. The third model does not use either zipcodes or counties. Among them, I pick the first model as the R-squared is highest and AIC & BIC are the lowest.
+Finally, I run three different potential models to see which one performs the best. The first model uses zipcodes as dummy variables as well as other predictor variables, the second model uses counties instead. The third model does not use either zipcodes or counties. Among them, I pick the first model as the R-squared is highest for both training and validation data, and AIC & BIC are the lowest.
 
 First Model
 
